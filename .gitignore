@@ -1,0 +1,12 @@
+$ cat .gitignore
+# Can ignore specific files
+.DS_Store
+.idea
+.revision
+bower_components
+node_modules
+web.config
+bin
+js
+build
+.tmp
